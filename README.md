@@ -1,6 +1,4 @@
-﻿
-
-# gwas_scripts
+# Whole Pipeline for GWAS study 
 ###### GWAS codebook (Coleman et al, 2015,  Briefings in Functional Genomics), version 1.0.0
 ##### Please address questions, comments and improvements to [my google group](https://groups.google.com/forum/#!forum/gwas-questions)
 ##### If you use the scripts and advice herein, please consider citing our paper, the full text of which is available on the publisher's website: 
